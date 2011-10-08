@@ -1,1 +1,1 @@
-/home/canicue/.vim/vimrc
+vimrc
