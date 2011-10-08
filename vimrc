@@ -6,6 +6,5 @@ set foldmethod=indent
 set foldlevel=99
 set tabstop=4
 syntax on                           " syntax highlighing
-filetype on  
 filetype plugin indent on
 
