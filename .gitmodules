@@ -55,3 +55,9 @@
 [submodule "bundle/eclim"]
 	path = bundle/eclim
 	url = git@github.com:canicue/eclim
+[submodule "SQLUtilities"]
+	path = SQLUtilities
+	url = https://github.com/vim-scripts/SQLUtilities.git
+[submodule "bundle/SQLUtilities"]
+	path = bundle/SQLUtilities
+	url = https://github.com/vim-scripts/SQLUtilities.git
