@@ -67,3 +67,6 @@
 [submodule "OmniCppComplete"]
 	path = OmniCppComplete
 	url = /home/canicue/.vim/bundle/OmniCppComplete/
+[submodule "/home/canicue/.vim/bundle/OmniCppComplete"]
+	path = /home/canicue/.vim/bundle/OmniCppComplete
+	url = /home/canicue/.vim/bundle/OmniCppComplete/
