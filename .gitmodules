@@ -76,3 +76,6 @@
 [submodule "bundle/vim-symfony"]
 	path = bundle/vim-symfony
 	url = https://github.com/docteurklein/vim-symfony.git
+[submodule "bundle/vim-latex"]
+	path = bundle/vim-latex
+	url = git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex
