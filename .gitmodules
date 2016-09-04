@@ -88,3 +88,6 @@
 [submodule "bundle/vim-arduino"]
 	path = bundle/vim-arduino
 	url = https://github.com/stevearc/vim-arduino.git
+[submodule "bundle/fisa-vim-config"]
+	path = bundle/fisa-vim-config
+	url = https://github.com/fisadev/fisa-vim-config.git
